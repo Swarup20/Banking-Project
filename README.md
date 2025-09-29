@@ -27,11 +27,11 @@ Built using **Object-Oriented Programming (OOP)** principles, it’s a beginner-
 
 ## 📂 Project Structure
 
-Banking-Project/
-│
-├── bank.py # Main source code for the project
-├── README.md # Project documentation
-└── requirements.txt (optional, if dependencies exist)
+- Banking-Project/
+- │
+- ├── bank.py # Main source code for the project
+- ├── README.md # Project documentation
+- └── requirements.txt (optional, if dependencies exist)
 
 ---
 Sample output
@@ -44,8 +44,8 @@ Welcome to Our Bank
 
 Enter your choice: 2
 
-Enter your name: abc
-Enter your password: ****
-Enter your email: abc@example.com
+- Enter your name: abc
+- Enter your password: ****
+- Enter your email: abc@example.com
 
 ✅ Account created successfully!
