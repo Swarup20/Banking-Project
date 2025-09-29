@@ -31,7 +31,6 @@ Built using **Object-Oriented Programming (OOP)** principles, it’s a beginner-
 - │
 - ├── bank.py # Main source code for the project
 - ├── README.md # Project documentation
-- └── requirements.txt (optional, if dependencies exist)
 
 ---
 Sample output
